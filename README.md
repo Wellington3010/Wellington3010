@@ -1,8 +1,9 @@
 # :eyeglasses: Bem vindo ao perfil do **Wellington Gonçalves** :eyeglasses:
 
 ## About me
-- Me chamo Wellington Gonçalves, tenho 29 anos e sou um desenvolvedor Web Full Stack com foco em desenvolvimento web utilizando javascript e frameworks javascripts.
-- Acredito que um bom desenvolvedor não é apenas o especialista mas sim aquele que além de suas especialidades mantém a mente aberta para o aprendizado contínuo. 
+- Sou um desenvolvedor Web Full Stack com foco em desenvolvimento web utilizando javascript e frameworks javascripts.
+- Acredito que a tecnologia pode sempre transformar o mundo para uma versão melhor do que atual. 
+- Penso que um bom desenvolvedor não é apenas o especialista mas sim aquele que além de suas especialidades mantém a mente aberta para o aprendizado contínuo. 
 
 ## Hard Skills :computer:
 - Javascript (ECMAScript)
