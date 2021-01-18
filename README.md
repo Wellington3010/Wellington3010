@@ -10,6 +10,8 @@
 - Angular
 - Angular JS
 - Node JS
+- Inertia JS
+- Svelte
 - TypeScript
 - Bootstrap
 - HTML
@@ -17,6 +19,7 @@
 - SCSS
 - .NET
 - C#
+- Ruby on Rails
 
 ## Cloud Hard Skills :computer:
 - Azure
