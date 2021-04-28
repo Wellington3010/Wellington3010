@@ -1,4 +1,4 @@
-# :eyeglasses: Bem vindo ao perfil do **Wellington Gonçalves** :eyeglasses:
+# Bem vindo ao perfil do **Wellington Gonçalves** :computer: :octocat:
 
 ## About me
 - Sou um desenvolvedor Web Full Stack com foco em desenvolvimento web utilizando javascript e frameworks javascripts.
