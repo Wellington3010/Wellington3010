@@ -5,10 +5,9 @@
 - Acredito que a tecnologia pode sempre transformar o mundo para uma versão melhor do que a atual. 
 - Penso que um bom desenvolvedor não é apenas o especialista mas sim aquele que além de suas especialidades mantém a mente aberta para o aprendizado contínuo. 
 
-## Hard Skills :computer:
-- Javascript (ECMAScript)
-- Angular
-- Angular JS
+## My stack :computer:
+- Javascript(ES6)
+- React Native
 - Node JS
 - Inertia JS
 - Svelte
@@ -17,9 +16,8 @@
 - HTML
 - CSS
 - SCSS
-- .NET
-- C#
-- Ruby on Rails
+- Ruby
+- Rails
 
 ## Cloud Hard Skills :computer:
 - Azure
