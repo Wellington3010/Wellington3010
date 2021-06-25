@@ -1,4 +1,4 @@
-# Bem vindo ao perfil do **Wellington Gonçalves** :computer: :octocat:
+# Welcome to **Wellington Gonçalves** profile :computer: :octocat:
 
 ## About me
 - Sou um desenvolvedor Web Full Stack com foco em desenvolvimento web utilizando javascript e frameworks javascripts.
