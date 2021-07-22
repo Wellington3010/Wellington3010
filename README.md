@@ -6,6 +6,8 @@
 - Penso que um bom desenvolvedor não é apenas o especialista mas sim aquele que além de suas especialidades mantém a mente aberta para o aprendizado contínuo. 
 
 ## My stack :computer:
+
+### Front-end stack
 - Javascript(ES6)
 - React Native
 - Node JS
@@ -16,8 +18,9 @@
 - HTML
 - CSS
 - SCSS
-- Ruby
-- Rails
+
+### Back-end stack
+- Ruby on Rails
 
 ## Cloud Hard Skills :computer:
 - Azure
