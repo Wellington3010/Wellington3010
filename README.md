@@ -19,11 +19,15 @@ Penso que um bom desenvolvedor não é apenas o especialista mas sim aquele que 
 - CSS
 - SCSS
 
-### Back-end stack
+### Back-end stack and Tecnologies
+- C# .Net
+- Docker
+- Apache Kafka
 - Ruby on Rails
 
 ## Cloud Hard Skills :computer:
 - Azure
+- Azure Logic Apps
 
 ## Goals :books: :dart: :earth_americas: :rocket:
 
