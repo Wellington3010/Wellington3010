@@ -27,6 +27,8 @@ Penso que um bom desenvolvedor não é apenas o especialista mas sim aquele que 
 
 ## Cloud Hard Skills :computer:
 - Azure
+- Azure Devops
+- Azure App Services
 - Azure Logic Apps
 
 ## Goals :books: :dart: :earth_americas: :rocket:
