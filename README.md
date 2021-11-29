@@ -19,9 +19,17 @@ Penso que um bom desenvolvedor não é apenas o especialista mas sim aquele que 
 - SCSS
 
 ### Back-end stack and Tecnologies
-- C# .Net
+- .Net Plataform
+- C#
+- Entity Framework
+- Asp Net Core
 - Docker
 - Ruby on Rails
+
+### Databases
+- SQL Server
+- MySQL
+- Mondo DB
 
 ## Cloud Hard Skills :computer:
 - Azure
