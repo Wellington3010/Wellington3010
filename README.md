@@ -11,8 +11,7 @@ Penso que um bom desenvolvedor não é apenas o especialista mas sim aquele que 
 - Javascript(ES6)
 - React Native
 - Node JS
-- Inertia JS
-- Svelte
+- Angular
 - TypeScript
 - Bootstrap
 - HTML
@@ -22,7 +21,6 @@ Penso que um bom desenvolvedor não é apenas o especialista mas sim aquele que 
 ### Back-end stack and Tecnologies
 - C# .Net
 - Docker
-- Apache Kafka
 - Ruby on Rails
 
 ## Cloud Hard Skills :computer:
