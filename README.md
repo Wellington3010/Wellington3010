@@ -1,37 +1,27 @@
 # Welcome to **Wellington Gonçalves** profile :computer: :octocat:
 
 ## About me  
-Sou um desenvolvedor Web Full Stack com foco em desenvolvimento web utilizando javascript e frameworks javascripts.
-Acredito que a tecnologia pode sempre transformar o mundo para uma versão melhor do que a atual. 
-Penso que um bom desenvolvedor não é apenas o especialista mas sim aquele que além de suas especialidades mantém a mente aberta para o aprendizado contínuo. 
+
 
 ## My stack :computer:
 
-### Front-end stack
-- Javascript(ES6)
-- React Native
+### Front-end Frameworks
 - Node JS
 - Angular
-- TypeScript
-- Bootstrap
-- HTML
-- CSS
-- SCSS
+- Svelt JS
 
-### Back-end stack and Tecnologies
-- .Net Plataform
-- C#
-- Entity Framework
-- Asp Net Core
-- Docker
-- Ruby on Rails
+### Back-end Frameworks
+- Spring Boot
+- Spring MVC
+- .Net Framework
+- .Net Core
 
-### Databases
+### Relational Databases Systems
 - SQL Server
+- Postgresql
 - MySQL
-- Mondo DB
-
-## Cloud Hard Skills :computer:
+  
+## Cloud Skills :computer:
 - Azure
 - Azure Devops
 - Azure App Services
